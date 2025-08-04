@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on NOTHING!!<br>🌱 I’m currently learning Node.js<br>💬 
+🔭 I’m currently working on NOTHING!!<br>🌱 I’m currently learning Node.js<br>
 
 
 # 💻 Tech Stack:
