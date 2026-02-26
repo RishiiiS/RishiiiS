@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/0SXmywPCpjkAAAAd/the-amazing-spiderman-the-amazing-spiderman-2.gif" width="600"/>
-</p>                                              
+  <img src="https://i.pinimg.com/originals/b0/41/9d/b0419d5118d84713f963856d9e46ca97.gif" width="600"/>
+</p>                                          
 <br>                                                                                   
 #  About Me:
  I’m currently working on NOTHING!!<br> I’m currently learning Node.js<br>
