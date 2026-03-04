@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://c.tenor.com/0SXmywPCpjkAAAAd/the-amazing-spiderman-the-amazing-spiderman-2.gif" width="600">
+  <img src="dailytvfilmgifs.gif" width = 100%>
 </p>                                     
 <br>                                                                                   
 #  About Me:
